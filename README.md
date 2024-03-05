@@ -21,6 +21,10 @@ Nesse projeto, tentarei aplicar a base da [Pirâmide da Aprendizagem](https://ww
 
 Outro ponto que quero desenvolver nesse projeto é quebrar minhas correntes mentais que me fazem sempre tentar fazer tudo da melhor maneira possível, e detrimento de uma considerável porção do meu tempo. Portanto, esse projeto será feito com a menor quantidade de correções em vídeo que eu puder, regravando o menos possível.
 
+#### Tópicos
+
+- [Golang](/topics/golang/golang.md)
+
 ###### Referências
 
 - [Metodologias Ativas](https://moodle.ead.ifsc.edu.br/mod/book/view.php?id=82877&chapterid=16518)
