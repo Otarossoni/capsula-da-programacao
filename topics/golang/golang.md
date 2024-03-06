@@ -10,3 +10,7 @@ A linguagem foi concebida em uma era de computadores multicore, portanto, foi de
 A [Google](https://www.google.com.br/) possuía muitos problemas com o uso de [C](https://en.wikipedia.org/wiki/C_(programming_language)) e [C++](https://en.wikipedia.org/wiki/C%2B%2B) devido ao alto tempo de compilação dos programas e a dificuldade de domínio da linguagem, portanto, sentiu necessidade de desenvolver sua própria linguagem, mantendo o desempenho das duas outras, mas que solucionasse também esses dois grandes problemas. 
 
 Portanto, as principais vantagens de [Golang](https://go.dev/) são que possui tempo de compilação baixíssimo, alto desempenho e fácil aprendizagem, tudo isso por ser uma linguagem compilada, altamente tipada, que explora o melhor do hardware multicore.
+
+#### Capítulos
+
+- [Chapter 01: Fundamentos](/topics/golang/ch01-fundamentalsfundamentals/)
