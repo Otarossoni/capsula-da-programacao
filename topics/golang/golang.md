@@ -13,4 +13,4 @@ Portanto, as principais vantagens de [Golang](https://go.dev/) são que possui t
 
 #### Capítulos
 
-- [Chapter 01: Fundamentos](/topics/golang/ch01-fundamentalsfundamentals/)
+- [Chapter 01: Fundamentos](/topics/golang/ch01-fundamentals/)
