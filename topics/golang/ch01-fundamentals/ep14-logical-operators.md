@@ -12,8 +12,8 @@ isValidPerson := age >= 18 && isWoman == true
 Observe que o operador `&&` verifica se tanto a operação da esquerda quanto a da direita são verdadeiras, se sim, o resultado da variável `isValidPerson` também será verdadeiro.
 Abaixo todos os operadores lógicos:
 
-| Nome  | Operador |
-| :---- | :------- |
-| E     | `&&`     |
-| Ou    | \| \|    |
-| Igual | `==`     |
+| Nome    | Operador |
+| :------ | :------- |
+| E       | `&&`     |
+| Ou      | \| \|    |
+| Negação | `!`      |
