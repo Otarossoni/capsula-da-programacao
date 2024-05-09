@@ -24,6 +24,7 @@ Outro ponto que quero desenvolver nesse projeto é quebrar minhas correntes ment
 #### Tópicos
 
 - [Golang](/topics/golang/golang.md)
+- [TypeScript](/topics/typescript/typescript.md)
 
 ###### Referências
 
