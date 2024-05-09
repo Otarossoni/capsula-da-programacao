@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="/@assets/golang-logo.svg" width="200px" align="center" alt="cdp-logo" />
+      <img src="/@assets/golang-logo.svg" width="200px" align="center" alt="go-logo" />
    <h1 align="center">Golang</h1>
    </p>
 
